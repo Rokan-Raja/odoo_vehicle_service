@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+          <record id="object0" model="vehicle_service.vehicle_service">
+            <field name="name">Object 0</field>
+            <field name="vehicle_no">17</field>
+            <field name="phone">7550346317</field>
+            <field name="vehicle_type">2wheeler</field>
+            <field name="service_type">water_wash</field>
+            <field name="price">100</field>
+          </record>
+    </data>
+</odoo>
